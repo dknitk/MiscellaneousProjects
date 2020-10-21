@@ -21,9 +21,9 @@ It is very easy to set up this project o your local system, Please find the step
 
 This Sprngboot project helps to generate Dynamic Form based on an excel sheet. This project will help any organization to generate form dynamically by just adding a placeholder.
 Please find the steps to set the project in your local system -
-Download the project using https://github.com/dknitk/MiscellaneousProjects/blob/master/excelTemplate.zip URL Link.
-Unzip the project.
-Import the project in your favorite IDE.
-Execute TemplateJson Class to execute the main method. It will help to generate the form dynamically based on predefined values.
+* Download the project using https://github.com/dknitk/MiscellaneousProjects/blob/master/excelTemplate.zip URL Link.
+* Unzip the project.
+* Import the project in your favorite IDE.
+* Execute TemplateJson Class to execute the main method. It will help to generate the form dynamically based on predefined values.
 Note: This is just a POC to utilize and consume external Jar to generate the dynamic form.
 
