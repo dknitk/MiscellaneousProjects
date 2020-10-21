@@ -25,5 +25,6 @@ Please find the steps to set the project in your local system -
 * Unzip the project.
 * Import the project in your favorite IDE.
 * Execute TemplateJson Class to execute the main method. It will help to generate the form dynamically based on predefined values.
-Note: This is just a POC to utilize and consume external Jar to generate the dynamic form.
+
+  Note: This is just a POC to utilize and consume external Jar to generate the dynamic form.
 
